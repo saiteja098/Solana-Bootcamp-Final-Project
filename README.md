@@ -1,6 +1,6 @@
-# Solana-Bootcamp-Final-Project - README
+# Restaurant Review - README
 
-Welcome to the **Web3 Auction DApp** project repository! This decentralized application (DApp) leverages blockchain technology to implement an auction platform on the Ethereum network. Participants can place bids on items of interest, and the highest bidder at the end of the auction wins the item.
+Welcome to the **Restaurant Review** project repository! This application leverages smart contracts to implement an restaurant review platform on the Solana network. Customers can submit a review. 
 
 ## Table of Contents
 
@@ -18,15 +18,11 @@ Welcome to the **Web3 Auction DApp** project repository! This decentralized appl
 
 ## Overview
 
-The **Web3 Auction DApp** provides a user-friendly interface to participate in Ethereum-based auctions. This project ensures transparency and trust in the auction process through the use of smart contracts. Users can place bids, monitor ongoing auctions, and claim their winnings seamlessly.
+The **Restaurant Review** provides a user-friendly interface to submit a review on solana platform. This project ensures transparency and trust through the use of smart contracts. Users can submit review, and can update a review.
 
 ## Features
 
 - Browse ongoing auctions.
-- Place bids on items of interest.
-- Automatic outbidding: The system places slightly higher bids on behalf of users when they're outbid.
-- Real-time updates: Receive instant notifications for outbids and auction end events.
-- Claiming winnings: Winners of auctions can easily claim their items.
 - Ethereum Wallet Integration: Connect your Ethereum wallet (e.g., MetaMask) to participate directly.
 
 ## Getting Started
